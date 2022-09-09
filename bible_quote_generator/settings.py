@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ka)i2r*879+q(7c&16htyu88pl_d@d5v%8#v+j&j4tr6#&g0zm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1', 'bible-quote-gen.herokuapp.com']
 
 
 # Application definition
