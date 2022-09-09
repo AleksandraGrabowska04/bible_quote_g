@@ -1,1 +1,0 @@
-web: gunicorn bible_quote_generator.wsgi --log-file -
